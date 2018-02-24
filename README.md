@@ -1,4 +1,4 @@
 # Portafolio
-Esto se parte del reto 1 de HackSpace
+In progress
 
 https://diegitsen.github.io/Portafolio/
